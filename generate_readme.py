@@ -58,7 +58,7 @@ opt = [('-css=<stylesheet>', 'Link a css file'),
 ('-r', 'Reverse the horizontal order of the table'),
 ('-s', 'Split the program into separate tables for each MA instruction')]
 
-jmic = "http://wwwi10.lrr.in.tum.de/~eti/Vorlesung/WS1415/Software/jmic-1.4.jar"
+jmic = "http://wwwi10.lrr.in.tum.de/~eti/Praktikum/JMic.jar"
 
 from yattag import Doc
 doc, tag, text = Doc().tagtext()
