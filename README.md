@@ -10,7 +10,7 @@ A python programm which extracts a [JMIC v1.4](http://wwwi10.lrr.in.tum.de/~eti/
 This project is licensed under the therms of the MIT license
 
 The most mappings were taken from the [JMIC application](http://wwwi10.lrr.in.tum.de/~eti/Praktikum/JMic.jar) (v. 1.4) (c) TUM
-Link: [http://wwwi10.lrr.in.tum.de/~eti/Vorlesung/WS1415/Software/jmic-1.4.jar](http://wwwi10.lrr.in.tum.de/~eti/Praktikum/JMic.jar)
+Link: [wwwi10.lrr.in.tum.de/~eti/Praktikum/JMic.jar](http://wwwi10.lrr.in.tum.de/~eti/Praktikum/JMic.jar)
 
 ## Usage
 
